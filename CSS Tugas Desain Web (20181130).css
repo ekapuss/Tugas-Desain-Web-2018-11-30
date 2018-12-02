@@ -1,0 +1,48 @@
+.header{
+	background: #777d6a;
+	padding: 2px 10px;
+}
+ 
+.navigation ul{
+	padding: 10px;
+	margin: 0;
+	background: #a9ae9f;
+	overflow: hidden;
+}
+ 
+.ul,li{
+	float: left;
+	list-style-type: none;
+	padding: 0px;
+}
+
+.menu{
+	background: #999f8e;
+	word-spacing:5px;
+	float: left;	
+	width: 12%;
+	height: 80%;
+}
+
+.content{
+	background: #d2d8c7;
+	float: left;
+	height: 75%;
+	width: 65%;
+	padding:20px;
+}
+.extra{
+	background: #999f8e;
+	float: right;	
+	width: 20%;
+	height: 80%;
+}
+ 
+.footer{
+	position:absolute;
+	bottom:0;
+	background:#777d6a;
+	height: 15px;
+	width:100%;
+	padding: 10px;
+}
